@@ -5,7 +5,7 @@
 
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=A+3rd+Year+BSIT+Student;In+National+Teachers+College" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=A+4th+Year+BSIT+Student;In+National+Teachers+College" alt="Typing SVG" /></a>
 </p>
 
 
@@ -20,8 +20,8 @@
 
 <br>
 
-- A passionate Network Engineer, focused on building resilient and efficient network infrastructure
-- Currently pursuing the Cisco Certified Network Associate (CCNA) certification to solidify foundational expertise in routing, switching, and network security
+- My dream to be a Network Engineer, focused on building resilient and efficient network infrastructure
+- Currently pursuing to be a Cisco Certified Network Associate (CCNA) certified to solidify foundational expertise in routing, switching, and network security
 - Applying hands-on problem-solving skills from CTF competitions to analyze networks and strengthen their defense
 
 
@@ -39,6 +39,8 @@
     
     ![Cisco](https://www.readmecodegen.com/api/social-icon?name=Cisco&size=52&reverseBackground=true)
     ![Python](https://www.readmecodegen.com/api/social-icon?name=Python&size=52&reverseBackground=true)
+  	![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <br>   
     
 - **Front-End Development**:
@@ -46,6 +48,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br>
 
@@ -60,6 +63,14 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  	![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+  	![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+    ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white)
+    ![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
+    ![DeepSeek](https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white)
+    ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+  	
 
 
 </p>
